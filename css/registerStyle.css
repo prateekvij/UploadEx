@@ -1,0 +1,50 @@
+#registerForm{
+	position:absolute;
+	left:30%;
+	width:40%;
+	top:10%;
+	border: 1px solid blue;
+	
+	height:450px;
+}
+
+.details{
+	height: 60px;
+	width:90%;
+	padding-top:30px;
+	padding-left: 10px;
+	
+}
+.heading{
+
+	position: absolute;
+	font-size: 20px;
+	left:20%;
+}
+.inputs{
+	position:absolute;
+	left:50%;
+	padding-left: 2px;
+}
+#register{
+	position:absolute;
+	left:25%;
+	width:50%;
+	height:30px;
+}
+.error{
+	position:absolute;
+	left:50%;
+	margin-top: 30px;
+	color:red;
+}
+#alert{
+	position: absolute;
+	color:red;
+	left: 35%;
+	
+
+}
+
+
+

@@ -1,0 +1,56 @@
+#outerBox{
+	margin-left:35%;
+	margin-right:35%;
+	margin-top:5%;
+	width:30%;
+	height:500px;
+	border: 1px solid black;
+}
+#loginPic{
+	width:100%;
+	height:250px;
+	margin:0px;
+}
+#loginForm{
+	width:100%;
+	margin-top: 0px;
+	height:245px;
+
+}
+#username{
+	width: 79%;
+	margin-left:10%;
+	margin-top: 6%;	
+	padding-left: 5px;
+	height:40px;
+	border:1px solid black;
+	font-size: 18px;
+}
+#password{
+	width: 79%;
+	margin-left:10%;
+	margin-top: 6%;	
+	padding-left: 5px;
+	height:40px;
+	border:1px solid black;
+	font-size: 18px;
+}
+#loginButton{
+	width: 80%;
+	margin-left:10%;
+	background-color: blue;
+	font-size: 20px;
+	color:white;
+	margin-top: 6%;	
+	padding: 1px;
+	height:40px;
+	border:1px solid black;
+}
+#notify{
+	width:79%;
+	height:30px;
+	font-size: 20px;
+	margin-left:10%;
+	text-align: center;
+	color:red;
+}
